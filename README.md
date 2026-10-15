@@ -4,4 +4,5 @@
 # Git Lab Project (Feature Branch Version)
 >>>>>>> feature-title-change
 Edited directly on Github
-temporary line to remove later
+## Description
+A hands-on lab repository for practicing Git and GitHub.
